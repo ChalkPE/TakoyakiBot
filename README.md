@@ -15,7 +15,6 @@ $ java -jar TakoyakiBot/target/TakoyakiBot-<VERSION>.jar
 | `/takoyaki stop` | Stop subscribing to Takoyaki's log messages. |
 
 ## License
-## License
 ```
 Copyright 2015 ChalkPE
 
