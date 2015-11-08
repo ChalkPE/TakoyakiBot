@@ -1,0 +1,3 @@
+[submodule "lib/telegrambot-japi"]
+	path = lib/telegrambot-japi
+	url = https://github.com/marzn/telegrambot-japi.git
